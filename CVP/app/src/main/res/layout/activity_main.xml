@@ -1,0 +1,19 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#0ea4f5"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:scrollbarDefaultDelayBeforeFade="400">
+<ImageButton
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/button1"
+    android:layout_centerVertical="true"
+    android:src="@drawable/project"
+    android:scaleX="2"
+    android:scaleY="2"
+    android:layout_centerHorizontal="true"/>
+
+</RelativeLayout>
